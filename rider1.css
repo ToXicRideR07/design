@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(164, 149, 108);
+}
+h1{
+    text-align: center;
+}
+
+.a {
+    border: 1px solid black;
+    background-color: rgb(181, 166, 147);
+    width: 1000px;
+    margin: auto;
+    font-size: 25px;
+    border-radius: 100px;
+;
+}
+h4{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+.name{
+    color: rgb(147, 0, 0);
+}
+ul li {
+    list-style-type:circle;
+}
